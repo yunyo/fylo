@@ -201,6 +201,8 @@ li a {
     width: 100%;
     min-width: 100px;
     max-width: 200px;
+ 
+        filter: invert(100) sepia(0) saturate(0) hue-rotate(0) brightness(100) contrast(100);
 }
 
 .footer>div {
